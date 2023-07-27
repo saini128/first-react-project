@@ -17,13 +17,13 @@ const MainSection = () => {
   
             <div className="brand-icons">
                 
-              <a href="https://www.instagram.com/virsa.thapar/" target="_blank"><img src="/images/insta.png" alt="amazon-logo" /></a>
-              <img src="/images/fb.png" alt="flipkart-logo" />
+              <a href="https://www.instagram.com/virsa.thapar/" target="_blank"><img src="/images/insta.png" alt="insta" /></a>
+              <img src="./images/fb.png" alt="facebook" />
             </div>
           </div>
         </div>
         <div className="hero-image">
-          <img src="/images/bhangra2.png" alt="hero-image" />
+          <img src="./images/bhangra2.png" alt="bhangra-image" />
         </div>
       </main>
     );
