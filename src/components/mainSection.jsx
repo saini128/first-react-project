@@ -17,7 +17,7 @@ const MainSection = () => {
   
             <div className="brand-icons">
                 
-              <a href="https://www.instagram.com/virsa.thapar/" target="_blank"><img src="/images/insta.png" alt="insta" /></a>
+              <a href="https://www.instagram.com/virsa.thapar/" target="_blank"><img src="./images/insta.png" alt="insta" /></a>
               <img src="./images/fb.png" alt="facebook" />
             </div>
           </div>
