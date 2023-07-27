@@ -8,8 +8,9 @@ const MainSection = () => {
           </p>
   
           <div className="hero-btn">
-            <button>Reach us </button>
-            {/* <button className="secondary-btn">Category</button> */}
+            <a href="https://ssavirsa.com/" target="_blank" >
+            <button>Reach us</button>
+              </a>
           </div>
   
           <div className="shopping">
